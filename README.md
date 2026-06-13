@@ -1,5 +1,6 @@
 # ModelSnatch
 FFXI Addon - Displays model # of PC and NPC in game.
+//modelsnatch or //snatch to bring up the UI
 
         "=== ModelSnatch Help ==="
         "  //snatch pc      - Snatch models & gear names (requires /examine)"
